@@ -1,7 +1,8 @@
 # SOLVING
 
 
-* 1793 [dp] ./solving/11726.c
+* 1793 [dp] ./solving/1793.cpp
+* 11725 [bfs] ./solving/11725.cpp
 
 
 # SOLVED
